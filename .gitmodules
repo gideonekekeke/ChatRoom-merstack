@@ -1,0 +1,3 @@
+[submodule "chatting"]
+	path = chatting
+	url = https://github.com/gideonekekeke/react-framer-motion.git
